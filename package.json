@@ -1,0 +1,23 @@
+{
+  "name": "userapi",
+  "version": "0.0.1",
+  "description": "UserAPI is a simple REST API for beginners to node js.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhistleDevelopments/UserAPI.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "thewhistledev",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/WhistleDevelopments/UserAPI/issues"
+  },
+  "homepage": "https://github.com/WhistleDevelopments/UserAPI#readme"
+}
